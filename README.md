@@ -8,8 +8,7 @@
 
 |Year|Conf|Title|Repo|Result|
 |----|----|-----|----|----|
-|2017|ICRA|[Target-driven visual navigation in indoor scenes using deep reinforcement learning
-](https://arxiv.org/pdf/1609.05143.pdf)|||
+|2017|ICRA|[Target-driven visual navigation in indoor scenes using deep reinforcement learning](https://arxiv.org/pdf/1609.05143.pdf)|||
 
 ## Acknowledgment
 * This repository is scheduled to be updated regularly in accordance with schedules of major AI conferences.
