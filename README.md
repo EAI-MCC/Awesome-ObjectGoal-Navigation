@@ -63,7 +63,11 @@ To add a new paper via pull request:
    
  - **VTNet: Visual Transformer Network for Object Goal Navigation** <br>
    *Heming Du, Xin Yu, Liang Zheng* <br>
-   ICLR, 2021. [[Paper]](https://arxiv.org/pdf/2202.02440.pdf) [[Code]](https://github.com/xiaobaishu0097/ICLR_VTNet) 
+   ICLR, 2021. [[Paper]](https://arxiv.org/abs/2105.09447) [[Code]](https://github.com/xiaobaishu0097/ICLR_VTNet) 
+   
+  - **Semantic MapNet: Building Allocentric Semantic Maps and Representations from Egocentric Views** <br>
+   *Vincent Cartillier, Zhile Ren, Neha Jain, Stefan Lee, Irfan Essa, Dhruv Batra* <br>
+   AAAI, 2021. [[Paper]](https://arxiv.org/abs/2010.01191) [[Code]](https://github.com/vincentcartillier/Semantic-MapNet) [[Website]](https://vincentcartillier.github.io/smnet.html) 
    
  - **Object Goal Navigation using Goal-Oriented Semantic Exploration** <br>
    *Devendra Singh Chaplot, Dhiraj Gandhi, Abhinav Gupta, Ruslan Salakhutdinov* <br>
