@@ -73,10 +73,17 @@ To add a new paper via pull request:
    *Devendra Singh Chaplot, Dhiraj Gandhi, Abhinav Gupta, Ruslan Salakhutdinov* <br>
    NeurIPS, 2020. [[Paper]](https://arxiv.org/pdf/2007.00643) [[Code]](https://github.com/devendrachaplot/Object-Goal-Navigation) [[Website]](https://devendrachaplot.github.io/projects/semantic-exploration.html) 
  
+ - **Learning Object Relation Graph and Tentative Policy for Visual Navigation** <br>
+   *Heming Du, Xin Yu, Liang Zheng* <br>
+   ECCV, 2020. [[Paper]](https://arxiv.org/abs/2007.11018) [[Code]](https://github.com/xiaobaishu0097/ECCV-VN.git)
+ 
  - **Learning hierarchical relationships for object-goal navigation** <br>
    *Yiding Qiu, Anwesan Pal and Henrik I. Christensen* <br>
    CoRL, 2020. [[Paper]](https://arxiv.org/pdf/2003.06749.pdf) [[Code]](https://github.com/cassieqiuyd/MJOLNIR) [[Website]](https://sites.google.com/eng.ucsd.edu/mjolnir) 
 
+ - **Learning to Explore using Active Neural SLAM** <br>
+   *Devendra Singh Chaplot, Dhiraj Gandhi, Saurabh Gupta, Abhinav Gupta, Ruslan Salakhutdinov* <br>
+   ICLR, 2020. [[Paper]](https://openreview.net/pdf?id=HklXn1BKDH) [[Code]](https://github.com/devendrachaplot/Neural-SLAM) [[Website]](https://devendrachaplot.github.io/projects/Neural-SLAM) 
 
  - **Cognitive Mapping and Planning for Visual Navigation** <br>
    *Saurabh Gupta, Varun Tolani, James Davidson, Sergey Levine, Rahul Sukthankar, Jitendra Malik* <br>
