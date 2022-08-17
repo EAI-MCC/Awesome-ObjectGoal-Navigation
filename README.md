@@ -63,10 +63,10 @@ To add a new paper via pull request:
  
   - **Auxiliary Tasks and Exploration Enable ObjectNav** <br>
    *Joel Ye, Dhruv Batra, Abhishek Das, Erik Wijmans* <br>
-```diff
+   ICCV, 2021. [[Paper]](https://arxiv.org/abs/2104.04112)[[Code]](https://github.com/ziadalh/zero_experience_required) [[Website]](https://joel99.github.io/objectnav/) 
+   ```diff
 - Winner of Habitat ObjectGoal Navigation Challenge 2021!
 ```
-   ICCV, 2021. [[Paper]](https://arxiv.org/abs/2104.04112)[[Code]](https://github.com/ziadalh/zero_experience_required) [[Website]](https://joel99.github.io/objectnav/) 
    
  - **VTNet: Visual Transformer Network for Object Goal Navigation** <br>
    *Heming Du, Xin Yu, Liang Zheng* <br>
@@ -78,10 +78,10 @@ To add a new paper via pull request:
    
  - **Object Goal Navigation using Goal-Oriented Semantic Exploration** <br>
    *Devendra Singh Chaplot, Dhiraj Gandhi, Abhinav Gupta, Ruslan Salakhutdinov* <br>
-```diff
+   NeurIPS, 2020. [[Paper]](https://arxiv.org/pdf/2007.00643) [[Code]](https://github.com/devendrachaplot/Object-Goal-Navigation) [[Website]](https://devendrachaplot.github.io/projects/semantic-exploration.html) 
+   ```diff
 - Winner of Habitat ObjectGoal Navigation Challenge 2020!
 ```
-   NeurIPS, 2020. [[Paper]](https://arxiv.org/pdf/2007.00643) [[Code]](https://github.com/devendrachaplot/Object-Goal-Navigation) [[Website]](https://devendrachaplot.github.io/projects/semantic-exploration.html) 
  
  - **Learning Object Relation Graph and Tentative Policy for Visual Navigation** <br>
    *Heming Du, Xin Yu, Liang Zheng* <br>
