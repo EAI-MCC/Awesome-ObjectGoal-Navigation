@@ -61,3 +61,15 @@ To add a new paper via pull request:
  - **Learning to Map for Active Semantic Goal Navigation** <br>
    *Georgios Georgakis, Bernadette Bucher, Karl Schmeckpeper, Siddharth Singh, Kostas Daniilidis* <br>
    ICLR, 2022. [[Paper]](https://arxiv.org/pdf/2106.15648.pdf)
+   
+ - **VTNet: Visual Transformer Network for Object Goal Navigation** <br>
+   *Heming Du, Xin Yu, Liang Zheng* <br>
+   ICLR, 2021. [[Paper]](https://arxiv.org/pdf/2202.02440.pdf) [[Code]](https://github.com/xiaobaishu0097/ICLR_VTNet) 
+   
+ - **Object Goal Navigation using Goal-Oriented Semantic Exploration** <br>
+   *Devendra Singh Chaplot, Dhiraj Gandhi, Abhinav Gupta, Ruslan Salakhutdinov* <br>
+   NeurIPS, 2020. [[Paper]](https://arxiv.org/pdf/2007.00643) [[Code]](https://github.com/devendrachaplot/Object-Goal-Navigation) [[Website]](https://devendrachaplot.github.io/projects/semantic-exploration.html) 
+ 
+ - **Learning hierarchical relationships for object-goal navigation** <br>
+   *Yiding Qiu, Anwesan Pal and Henrik I. Christensen* <br>
+   CoRL, 2020. [[Paper]](https://arxiv.org/pdf/2003.06749.pdf) [[Code]](https://github.com/cassieqiuyd/MJOLNIR) [[Website]](https://sites.google.com/eng.ucsd.edu/mjolnir) 
