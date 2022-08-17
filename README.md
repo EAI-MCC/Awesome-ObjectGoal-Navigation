@@ -1,4 +1,4 @@
-# Awesome Visual Navigation
+# Awesome Visual Navigation[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 
 A curated list of research papers in Object-Goal Navigation (ObjNav). Link to the code and website if available is also present. You can also find more embodied vision papers in **[ awesome-embodied-vision](https://github.com/ChanganVR/awesome-embodied-vision)**.
 
