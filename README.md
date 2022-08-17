@@ -60,6 +60,10 @@ To add a new paper via pull request:
  - **Learning to Map for Active Semantic Goal Navigation** <br>
    *Georgios Georgakis, Bernadette Bucher, Karl Schmeckpeper, Siddharth Singh, Kostas Daniilidis* <br>
    ICLR, 2022. [[Paper]](https://arxiv.org/pdf/2106.15648.pdf)
+ 
+  - **Auxiliary Tasks and Exploration Enable ObjectNav** <br>(Winner of Habitat ObjectGoal Navigation Challendge 2021!)
+   *Joel Ye, Dhruv Batra, Abhishek Das, Erik Wijmans* <br>
+   ICCV, 2021. [[Paper]](https://arxiv.org/abs/2104.04112)[[Code]](https://github.com/ziadalh/zero_experience_required) [[Website]](https://joel99.github.io/objectnav/) 
    
  - **VTNet: Visual Transformer Network for Object Goal Navigation** <br>
    *Heming Du, Xin Yu, Liang Zheng* <br>
@@ -69,7 +73,7 @@ To add a new paper via pull request:
    *Vincent Cartillier, Zhile Ren, Neha Jain, Stefan Lee, Irfan Essa, Dhruv Batra* <br>
    AAAI, 2021. [[Paper]](https://arxiv.org/abs/2010.01191) [[Code]](https://github.com/vincentcartillier/Semantic-MapNet) [[Website]](https://vincentcartillier.github.io/smnet.html) 
    
- - **Object Goal Navigation using Goal-Oriented Semantic Exploration** <br>
+ - **Object Goal Navigation using Goal-Oriented Semantic Exploration** <br>(Winner of Habitat ObjectGoal Navigation Challendge 2020!)
    *Devendra Singh Chaplot, Dhiraj Gandhi, Abhinav Gupta, Ruslan Salakhutdinov* <br>
    NeurIPS, 2020. [[Paper]](https://arxiv.org/pdf/2007.00643) [[Code]](https://github.com/devendrachaplot/Object-Goal-Navigation) [[Website]](https://devendrachaplot.github.io/projects/semantic-exploration.html) 
  
