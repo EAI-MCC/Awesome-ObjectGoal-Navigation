@@ -65,7 +65,7 @@ To add a new paper via pull request:
    *Joel Ye, Dhruv Batra, Abhishek Das, Erik Wijmans* <br>
 ```diff
 - Winner of Habitat ObjectGoal Navigation Challenge 2021!
-```
+```<br>
    ICCV, 2021. [[Paper]](https://arxiv.org/abs/2104.04112)[[Code]](https://github.com/ziadalh/zero_experience_required) [[Website]](https://joel99.github.io/objectnav/) 
    
  - **VTNet: Visual Transformer Network for Object Goal Navigation** <br>
