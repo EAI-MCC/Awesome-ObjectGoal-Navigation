@@ -24,10 +24,9 @@ To add a new paper via pull request:
 
 ### Tasks:
 
-- **Target-driven Navigation: Interpreting Visually-Grounded Navigation Instructions in Real Environments** <br>
-   *Peter Anderson, Qi Wu, Damien Teney, Jake Bruce, Mark Johnson, Niko Sünderhauf, Ian Reid, Stephen Gould, Anton van den Hengel* <br>
-   CVPR, 2018. [[Paper]](https://arxiv.org/abs/1711.07280) [[Code]](https://github.com/peteanderson80/Matterport3DSimulator) [[Website]](https://bringmeaspoon.org)
-
+- **On Evaluation of Embodied Navigation Agents** <br>
+   *Peter Anderson, Angel Chang, Devendra Singh Chaplot, Alexey Dosovitskiy, Saurabh Gupta, Vladlen Koltun, Jana Kosecka, Jitendra Malik, Roozbeh Mottaghi, Manolis Savva, Amir R. Zamir* <br>
+   Tech Report, 2018. [[Paper]](https://arxiv.org/abs/1807.06757) 
 
 ### Roadmap (Chronological Order):
 
