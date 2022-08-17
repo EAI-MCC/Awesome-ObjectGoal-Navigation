@@ -36,7 +36,7 @@ To add a new paper via pull request:
    NeurIPS, 2022(under review). [[Paper]](https://arxiv.org/pdf/2206.12403.pdf) 
 
 - **PONI: Potential Functions for ObjectGoal Navigation with Interaction-free Learning** <br>
-   *Santhosh Kumar Ramakrishnan, Santhosh Kumar Ramakrishnan, Ziad Al-Halah, Jitendra Malik, Kristen Grauman* <br>
+   *Santhosh Kumar Ramakrishnan, Ziad Al-Halah, Jitendra Malik, Kristen Grauman* <br>
    CVPR, 2022. [[Paper]](https://arxiv.org/pdf/2201.10029.pdf) [[Code]](https://github.com/srama2512/PONI) [[Website]](https://vision.cs.utexas.edu/projects/poni/) 
  
 - **Online Learning of Reusable Abstract Models for Object Goal Navigation** <br>
