@@ -79,5 +79,5 @@ To add a new paper via pull request:
 
 
  - **Cognitive Mapping and Planning for Visual Navigation** <br>
-   *Yiding Qiu, Anwesan Pal and Henrik I. Christensen* <br>
+   *Saurabh Gupta, Varun Tolani, James Davidson, Sergey Levine, Rahul Sukthankar, Jitendra Malik* <br>
    CVPR, 2017. [[Paper]](https://arxiv.org/abs/1702.03920) [[Code]](https://github.com/tensorflow/models/tree/archive/research/cognitive_mapping_and_planning) [[Website]](https://sites.google.com/view/cognitive-mapping-and-planning/)
