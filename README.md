@@ -31,6 +31,11 @@ To add a new paper via pull request:
 
 ### Roadmap (Chronological Order):
 
+
+- **ZSON: Zero-Shot Object-Goal Navigation using Multimodal Goal Embeddings** <br>
+   *Arjun Majumdar, Gunjan Aggarwal, Bhavika Devnani, Judy Hoffman, Dhruv Batra* <br>
+   NeurIPS, 2022(under review). [[Paper]](https://arxiv.org/pdf/2206.12403.pdf) 
+
 - **PONI: Potential Functions for ObjectGoal Navigation with Interaction-free Learning** <br>
    *Santhosh Kumar Ramakrishnan, Santhosh Kumar Ramakrishnan, Ziad Al-Halah, Jitendra Malik, Kristen Grauman* <br>
    CVPR, 2022. [[Paper]](https://arxiv.org/pdf/2201.10029.pdf) [[Code]](https://github.com/srama2512/PONI) [[Website]](https://vision.cs.utexas.edu/projects/poni/) 
@@ -48,3 +53,11 @@ To add a new paper via pull request:
 - **Zero Experience Required: Plug & Play Modular Transfer Learning for Semantic Visual Navigation** <br>
    *Ziad Al-Halah, Santhosh K. Ramakrishnan, Kristen Grauman* <br>
    CVPR, 2022. [[Paper]](https://arxiv.org/pdf/2202.02440.pdf) [[Code]](https://github.com/ziadalh/zero_experience_required) [[Website]](https://vision.cs.utexas.edu/projects/zsel/) 
+ 
+ - **Object Memory Transformer for Object Goal Navigation** <br>
+   *Rui Fukushima, Kei Ota, Asako Kanezaki, Yoko Sasaki and Yusuke Yoshiyasu* <br>
+   ICRA, 2022. [[Paper]](https://arxiv.org/pdf/2203.14708.pdf)
+  
+ - **Learning to Map for Active Semantic Goal Navigation** <br>
+   *Georgios Georgakis, Bernadette Bucher, Karl Schmeckpeper, Siddharth Singh, Kostas Daniilidis* <br>
+   ICLR, 2022. [[Paper]](https://arxiv.org/pdf/2106.15648.pdf)
