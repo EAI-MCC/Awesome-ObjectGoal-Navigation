@@ -79,7 +79,7 @@ To add a new paper via pull request:
  - **Object Goal Navigation using Goal-Oriented Semantic Exploration** <br>
    *Devendra Singh Chaplot, Dhiraj Gandhi, Abhinav Gupta, Ruslan Salakhutdinov* <br>
    NeurIPS, 2020. [[Paper]](https://arxiv.org/pdf/2007.00643) [[Code]](https://github.com/devendrachaplot/Object-Goal-Navigation) [[Website]](https://devendrachaplot.github.io/projects/semantic-exploration.html) 
-   ```diff
+```diff
 - Winner of Habitat ObjectGoal Navigation Challenge 2020!
 ```
  
