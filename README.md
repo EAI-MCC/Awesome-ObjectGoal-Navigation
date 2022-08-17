@@ -76,3 +76,8 @@ To add a new paper via pull request:
  - **Learning hierarchical relationships for object-goal navigation** <br>
    *Yiding Qiu, Anwesan Pal and Henrik I. Christensen* <br>
    CoRL, 2020. [[Paper]](https://arxiv.org/pdf/2003.06749.pdf) [[Code]](https://github.com/cassieqiuyd/MJOLNIR) [[Website]](https://sites.google.com/eng.ucsd.edu/mjolnir) 
+
+
+ - **Cognitive Mapping and Planning for Visual Navigation** <br>
+   *Yiding Qiu, Anwesan Pal and Henrik I. Christensen* <br>
+   CVPR, 2017. [[Paper]](https://arxiv.org/abs/1702.03920) [[Code]](https://github.com/tensorflow/models/tree/archive/research/cognitive_mapping_and_planning) [[Website]](https://sites.google.com/view/cognitive-mapping-and-planning/)
