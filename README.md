@@ -67,6 +67,10 @@ To add a new paper via pull request:
    ```diff
 - Winner of Habitat ObjectGoal Navigation Challenge 2021!
 ```
+
+ - **Cognitive Mapping and Planning for Visual Navigation** <br>
+   *Oleksandr Maksymets, Vincent Cartillier, Aaron Gokaslan, Erik Wijmans, Wojciech Galuba, Stefan Lee, Dhruv Batra* <br>
+   ICCV, 2021. [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Maksymets_THDA_Treasure_Hunt_Data_Augmentation_for_Semantic_Navigation_ICCV_2021_paper.pdf) 
    
  - **VTNet: Visual Transformer Network for Object Goal Navigation** <br>
    *Heming Du, Xin Yu, Liang Zheng* <br>
@@ -94,6 +98,22 @@ To add a new paper via pull request:
  - **Learning to Explore using Active Neural SLAM** <br>
    *Devendra Singh Chaplot, Dhiraj Gandhi, Saurabh Gupta, Abhinav Gupta, Ruslan Salakhutdinov* <br>
    ICLR, 2020. [[Paper]](https://openreview.net/pdf?id=HklXn1BKDH) [[Code]](https://github.com/devendrachaplot/Neural-SLAM) [[Website]](https://devendrachaplot.github.io/projects/Neural-SLAM) 
+
+ - **Visual Object Search by Learning Spatial Context** <br>
+   *Raphael Druon, Yusuke Yoshiyasu, Asako Kanezaki, and Alassane Watt* <br>
+   RA-L, 2020. [[Paper]](https://ieeexplore.ieee.org/document/8963758)
+
+ - **Situational Fusion of Visual Representation for Visual Navigation** <br>
+   Bokui Shen, Danfei Xu, Yuke Zhu, Leonidas J. Guibas, Li Fei-Fei, Silvio Savarese* <br>
+   ICCV, 2019. [[Paper]](https://arxiv.org/abs/1908.09073)
+
+ - **Scene Memory Transformer for Embodied Agents in Long-Horizon Tasks** <br>
+   Kuan Fang, Alexander Toshev, Li Fei-Fei, Silvio Savarese* <br>
+   CVPR, 2019. [[Paper]](https://arxiv.org/abs/1903.03878)
+   
+ - **Scene Memory Transformer for Embodied Agents in Long-Horizon Tasks** <br>
+   *Wei Yang, Xiaolong Wang, Ali Farhadi, Abhinav Gupta & Roozbeh Mottagh* <br>
+   ICLR, 2019. [[Paper]](https://arxiv.org/abs/1810.06543) [[Video]](https://youtu.be/otKjuO805dE) 
 
  - **Cognitive Mapping and Planning for Visual Navigation** <br>
    *Saurabh Gupta, Varun Tolani, James Davidson, Sergey Levine, Rahul Sukthankar, Jitendra Malik* <br>
