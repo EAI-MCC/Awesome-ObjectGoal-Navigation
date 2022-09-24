@@ -33,7 +33,7 @@ To add a new paper via pull request:
 
 - **ZSON: Zero-Shot Object-Goal Navigation using Multimodal Goal Embeddings** <br>
    *Arjun Majumdar, Gunjan Aggarwal, Bhavika Devnani, Judy Hoffman, Dhruv Batra* <br>
-   NeurIPS, 2022(under review). [[Paper]](https://arxiv.org/pdf/2206.12403.pdf) 
+   NeurIPS, 2022. [[Paper]](https://arxiv.org/pdf/2206.12403.pdf) 
 
 - **PONI: Potential Functions for ObjectGoal Navigation with Interaction-free Learning** <br>
    *Santhosh Kumar Ramakrishnan, Ziad Al-Halah, Jitendra Malik, Kristen Grauman* <br>
